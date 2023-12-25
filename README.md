@@ -1,9 +1,13 @@
 👋 Hi, I am Alex Elsner
+
 🌱 I am currently learning cyber security, C programming languge, assembly, and computer architecture
+
 👀 I am interested in learning and experimenting with all forms of cyber security
+
 📫 Reach me at elsneram@iastate.edu
 
 Tools: MongoDB, Android Studio, Workbench, Windows and Linux OS familiarity, and GIT
+
 Skills: Java, C, OOP concepts, Python, MySQL, Kali Linux, Basic cyber security concepts and tools
 
 
